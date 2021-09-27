@@ -9,7 +9,7 @@ export default function Index() {
     <Container maxWidth="sm">
       <Box sx={{ my: 'auto', mx: 'auto' }}>
         <Typography variant="h4" component="h1" gutterBottom>
-          Example app
+          Example app with firebase
         </Typography>
         <Link href="/signin">Iniciar sesión</Link>
       </Box>
